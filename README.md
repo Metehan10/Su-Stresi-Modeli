@@ -1,7 +1,9 @@
 # Su-Stresi-Modeli
 Su stresi modeli, “Kişi başına orman alanı (metre kare)”, “Kişi başına düşen yenilenebilir tatlı su kaynakları (metreküp)”, “Yılda ortalama yağış (mm)” ve “Temel Su Stresi” değişkenlerini baz alarak oluşturulmuştur. Söz konusu değişkenler “Temel Su Stresini” tahminlemek için kullanılmaktadır.
+
 --------------------------------------------------------------------------------------
 Elle oluşturulan veri setinde 31 farklı ülke bulunmaktadır. Ülkeler K.Amerika, G.Amerika, Avrupa, Asya, Afrika ve Avustralya kıtalarında bulunmaktadır.
+
 --------------------------------------------------------------------------------------
 • Kişi başına düşen orman alanı (metre kare) değişkeni; ülkelerde kişi başına düşen orman alanlarının metrekare cinsinden değerlerini göstermektedir.
 
